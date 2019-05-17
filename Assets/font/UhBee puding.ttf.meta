@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c9377ff38c5f0c143bb6d3bb4868b9a9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UhBee puding
+  fontNames:
+  - UhBee puding
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0086243777e43d4189ac6082b55cf35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

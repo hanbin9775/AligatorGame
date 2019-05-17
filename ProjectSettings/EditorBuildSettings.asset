@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/platform/Scenes/HowMany.unity
+    guid: 7dae60b6fb456be4a993efd5ea408d46
+  - enabled: 0
+    path: Assets/platform/Scenes/EasyGame.unity
+    guid: bdef4e2608766c64db1b7d9f602490b9
+  - enabled: 0
+    path: Assets/platform/Scenes/HardGame.unity
+    guid: 008bdaf24f986ab4d9aaa25549cf3c8d
+  - enabled: 0
+    path: Assets/Alphabet/00.Scene/Alphabet.unity
+    guid: 4415b6d1bcb8b894986d24491e96774d
+  - enabled: 1
+    path: Assets/Aligator/Scenes/SampleScene.unity
+    guid: 7dc843abf7519e841bbf53a95d93d176
+  - enabled: 0
+    path: Assets/platform/Scenes/newSceneMode.unity
+    guid: af85f3719baecd84486065c7736832fd
+  - enabled: 0
+    path: Assets/platform/Scenes/EasyGameDemo.unity
+    guid: fdebc2ce342cd0146a73186caf16d6d5
+  m_configObjects: {}
