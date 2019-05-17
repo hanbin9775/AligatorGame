@@ -28,7 +28,7 @@ public class GameManager : MonoBehaviour
     }
 
 
-    void makerottentoothtrans()
+    void MakeRottenTooth()
     {
         rottentoothindex = Random.Range(0, toothtrans.Length);
     }
@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
     {
         mbIsGameEnd = false;
         InstantiateTooth();
-        makerottentoothtrans();
+        MakeRottenTooth();
     }
 
     // Update is called once per frame
